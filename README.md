@@ -220,7 +220,4 @@ GitHub: https://github.com/Susmitha35-git
 
 This project is intended for educational and internship purposes.
 
-
-⭐ If you found this project useful, consider giving it a star.
-
 ⭐ If you found this project useful, consider giving it a star.
